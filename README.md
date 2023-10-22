@@ -15,21 +15,21 @@ Most Other Particle Effects Have Been Moved to mxsxc1_patricles, others are in m
 
 Notes/Issues:
 
-Can be intensive and cause slow down. This is much much improved from the High Res Version, and is a lowerquality version for use with the Arena & PVP.
+Can be intensive and cause slow down. This is much much improved from the High Res Version, for use with the Arena & PVP.
 
 The rain can look a little thick, this is improved on again in High Res Version.
 
 This has been tested in Vanilla and with multiple shaders used by The Dark Is A Cold Lonely Shadow, and in the insanity of The Arena.
 
-This version of the Weather Pack deliberately uses blurred images with additional, barely seen Alpha "residue".
+This version deliberately uses blurred images with additional, barely seen, Alpha "residue" around the flakes.
 
-This is entirely deliberate as it looks awesome in some packs, and produces the "sleet" effect. But in some cases it wont be wanted.
+This is entirely deliberate as it looks awesome in some packs, and produces the "sleet" effect. But in some cases it wont be wanted, and looks awful with a few shadsr.
 
-Another version of pack with Crisp Snow is working, but a bit too subtle and sparse on the snow side, this will be released later.
+Another version of pack with Crisp Snow doesn't have this.
 
 Alternate Weather Packs:
 
-Pink Sleet & Snow (only really works in Vanilla). Red & Black versions also being worked on.
+Pink Rain (only really works in Vanilla). Other colours and colour selection may be added later.
 
 Crisp Snow. Minimal Alpha removed the Sleet effect.
 
